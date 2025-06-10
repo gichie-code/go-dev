@@ -1,0 +1,9 @@
+# OSやIDEの一時ファイル
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Git関連
+.git
+.gitignore

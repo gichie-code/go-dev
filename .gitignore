@@ -1,0 +1,19 @@
+# Goのビルド成果物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# モジュールキャッシュなど
+vendor/
+go.sum
+*.mod
+
+# IDEやOSの一時ファイル
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp

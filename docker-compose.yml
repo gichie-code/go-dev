@@ -1,0 +1,6 @@
+services:
+  go-dev:
+    build: .
+    volumes:
+      - ./src:/workspace
+    working_dir: /workspace
